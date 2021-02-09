@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>Sample</title>
+<icon>icon.png</icon>
+<packageName>com.sample.sample</packageName>
+<versionName>1.0</versionName>
+<versionint>1</versionint>
+<sdk>15</sdk>
+<yuv>3</yuv>
+<remark></remark>
+<Permissions>android.permission.READ_EXTERNAL_STORAGE
+android.permission.REQUEST_INSTALL_PACKAGES</Permissions>
+<createTime>2021-01-17 21:31:15</createTime>
+<upTime>2021-01-17 21:31:15</upTime>
